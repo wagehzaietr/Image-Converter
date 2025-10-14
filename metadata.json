@@ -1,0 +1,5 @@
+{
+  "name": "Pro Image Converter",
+  "description": "A sleek and professional web application to convert images to different formats like WEBP, JPEG, and PNG while maintaining high quality. Features include format selection, quality control, and instant previews.",
+  "requestFramePermissions": []
+}
