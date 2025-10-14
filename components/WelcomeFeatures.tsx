@@ -6,7 +6,7 @@ const WelcomeFeatures: React.FC = () => {
         {
             icon: (
                 <div className="w-12 h-12 mb-2 flex items-center justify-center bg-cyan-900/30 rounded-lg border border-cyan-500/20 p-2">
-                    <img src="https://github.com/wagehzaietr/my-ad-design-/blob/main/format.png?raw=true" alt="Multiple Formats" className="w-full h-full object-contain" />
+                    <img src="https://github.com/wagehzaietr/my-ad-design-/blob/main/format.png?raw=true" alt="Multiple Formats" className="w-full h-full object-cover" />
                 </div>
             ),
             title: "Multiple Formats",
@@ -15,7 +15,7 @@ const WelcomeFeatures: React.FC = () => {
         {
             icon: (
                 <div className="w-12 h-12 mb-2 flex items-center justify-center bg-cyan-900/30 rounded-lg border border-cyan-500/20 p-2">
-                    <img src="https://github.com/wagehzaietr/my-ad-design-/blob/main/control.png?raw=true" alt="Quality Control" className="w-full h-full object-contain" />
+                    <img src="https://github.com/wagehzaietr/my-ad-design-/blob/main/control.png?raw=true" alt="Quality Control" className="w-full h-full object-cover" />
                 </div>
             ),
             title: "Quality Control",
@@ -24,7 +24,7 @@ const WelcomeFeatures: React.FC = () => {
         {
             icon: (
                 <div className="w-12 h-12 mb-2 flex items-center justify-center bg-cyan-900/30 rounded-lg border border-cyan-500/20 p-2">
-                    <img src="https://github.com/wagehzaietr/my-ad-design-/blob/main/prev.png?raw=true" alt="Instant Preview" className="w-full h-full object-contain" />
+                    <img src="https://github.com/wagehzaietr/my-ad-design-/blob/main/prev.png?raw=true" alt="Instant Preview" className="w-full h-full object-cover" />
                 </div>
             ),
             title: "Instant Preview",
@@ -33,7 +33,7 @@ const WelcomeFeatures: React.FC = () => {
         {
             icon: (
                 <div className="w-12 h-12 mb-2 flex items-center justify-center bg-cyan-900/30 rounded-lg border border-cyan-500/20 p-2">
-                    <img src="https://github.com/wagehzaietr/my-ad-design-/blob/main/privacy.png?raw=true" alt="Privacy First" className="w-full h-full object-contain" />
+                    <img src="https://github.com/wagehzaietr/my-ad-design-/blob/main/privacy.png?raw=true" alt="Privacy First" className="w-full h-full object-cover" />
                 </div>
             ),
             title: "Privacy First",
